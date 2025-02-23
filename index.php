@@ -11,6 +11,8 @@ include("database.php");
     <title>Dela Cruz</title>
 </head>
 <body>
+    <h1>Hello world! Liz panget HAHAHHAHA EDI WOW</h1>
+    <h1>HAHAHHAHAH HELLO</h1>
 
     <div style="background-color: green;"> 
         <h1 style="color: pink;">Hello world! Liz panget</h1>
