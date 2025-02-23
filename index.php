@@ -11,6 +11,7 @@ include("database.php");
     <title>Dela Cruzss</title>
 </head>
 <body>
+    <h1> Pogi ko </h1>
     <h1>Hello world! Liz panget HAHAHHAHA EDI WOWSS</h1>
     <h1>HAHAHHAHAH HELLOES</h1>
 
