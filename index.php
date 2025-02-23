@@ -12,6 +12,7 @@ include("database.php");
 </head>
 <body>
     <h1>Hello world! Liz panget HAHAHHAHA EDI WOW</h1>
+    <h1>HAHAHHAHAH HELLO</h1>
     <form action="" method="post">
          <label for="">firstname:</label>
          <br>
