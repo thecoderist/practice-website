@@ -8,14 +8,18 @@ include("database.php");
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dela Cruz</title>
+    <title>Dela Cruzss</title>
 </head>
 <body>
-    <h1>Hello world! Liz panget HAHAHHAHA EDI WOW</h1>
-    <h1>HAHAHHAHAH HELLO</h1>
+
 
     <div style="background-color: green;"> 
+        
         <h1 style="color: pink;">Hello world! Liz panget</h1>
+    </div>
+
+    <div style="background-color: red;">
+        <h1>papanget nyo</h1>
     </div>
    
     <form action="" method="post">
