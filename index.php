@@ -13,6 +13,11 @@ include("database.php");
 <body>
     <h1>Hello world! Liz panget HAHAHHAHA EDI WOW</h1>
     <h1>HAHAHHAHAH HELLO</h1>
+
+    <div style="background-color: green;"> 
+        <h1 style="color: pink;">Hello world! Liz panget</h1>
+    </div>
+   
     <form action="" method="post">
          <label for="">firstname:</label>
          <br>
