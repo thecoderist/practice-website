@@ -11,6 +11,7 @@ include("database.php");
     <title>Dela Cruz</title>
 </head>
 <body>
+    <h1>Hello world!</h1>
     <form action="" method="post">
          <label for="">firstname:</label>
          <br>
