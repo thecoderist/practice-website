@@ -1,5 +1,10 @@
 <?php
 $host = 'localhost:3307'; 
+<<<<<<< HEAD
+$dbname = 'Activity1';
+=======
+$dbname = 'activity1';
+>>>>>>> e99517d11ff6e057b8c7f3435ca762f2b63b70ba
 $dbname = 'activity2';
 $username = 'root';  
 $password = '';  

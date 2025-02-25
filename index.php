@@ -11,6 +11,7 @@ include("database.php");
     <title>Dela Cruzss</title>
 </head>
 <body>
+    <h1> Pogi ko </h1>
     <h1>Hello world! Liz panget HAHAHHAHA EDI WOWSS</h1>
     <h1>HAHAHHAHAH HELLOES</h1>
 
@@ -20,10 +21,12 @@ include("database.php");
         <h1 style="color: pink;">Hello world! Liz panget</h1>
     </div>
 
-    <div style="background-color: yellow;"> 
+    <div style="background-color: green;"> 
         
-        <h1 style="color: black;">Hello world! Liz panget</h1>
+        <h1 style="color: green;">Hello world! Frankie</h1>
     </div>
+
+   
 
     <div style="background-color: red;">
         <h1>papanget nyo</h1>
