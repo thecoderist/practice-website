@@ -22,7 +22,7 @@ include("database.php");
 
     <div style="background-color: green;"> 
         
-        <h1 style="color: green;">Hello world! Frankie</h1>
+        <h1 style="color: black;">Hello world! Frankie</h1>
     </div>
 
     <div style="background-color: red;">
