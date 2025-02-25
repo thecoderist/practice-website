@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost:3307'; 
-$dbname = 'activity1';
+$dbname = 'activity2';
 $username = 'root';  
 $password = '';  
 
