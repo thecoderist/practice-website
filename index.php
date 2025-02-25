@@ -20,6 +20,11 @@ include("database.php");
         <h1 style="color: pink;">Hello world! Liz panget</h1>
     </div>
 
+    <div style="background-color: green;"> 
+        
+        <h1 style="color: green;">Hello world! Frankie</h1>
+    </div>
+
     <div style="background-color: red;">
         <h1>papanget nyo</h1>
     </div>
