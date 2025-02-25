@@ -25,6 +25,12 @@ include("database.php");
         <h1 style="color: black;">Hello world! Frankie</h1>
     </div>
 
+    <div style="background-color: yellow;"> 
+        
+        <h1 style="color: black;">Hello world! Frankie</h1>
+    </div>
+
+
     <div style="background-color: red;">
         <h1>papanget nyo</h1>
     </div>
